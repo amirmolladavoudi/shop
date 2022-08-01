@@ -84,27 +84,34 @@
     flex-direction: row;
     justify-content: space-between !important;
 }
+
 .button {
     width: 89.9999%;
 }
+
 .buttons {
     padding: 12px 24px !important;
-    border: 1px solid #ccc!important;
+    border: 1px solid #ccc !important;
 }
+
 .buttons:hover {
-    background-color: #ccc!important;
+    background-color: #ccc !important;
 }
+
 .rightbottom {
     width: 24.3333%;
 }
+
 .commentpadding {
     padding: 12px 24px !important;
 }
+
 .hr {
     border: 0;
     border-top: 1px solid #eee;
     margin: 20px 0;
 }
+
 .rightside {
     display: flex;
     flex-direction: column;
@@ -112,86 +119,101 @@
     width: 36.66666% !important;
     padding: 16px !important;
 }
+
 .rightimg {
     width: 100%;
     vertical-align: middle;
     height: 225px;
 }
+
 .margincard {
-   
+
     box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%)
 }
+
 .paddingsection {
     padding: 8px 16px;
 }
+
 .h4 {
     font-weight: 400;
     margin: 10px 0;
     font-size: 20px;
 }
+
 .ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
 }
- .li {
+
+.li {
     display: flex;
     flex-direction: row;
     border-bottom: 1px solid #ddd;
     padding: 16px !important;
- }
- .li:hover {
+}
+
+.li:hover {
     background-color: #ccc;
- }
- .smallimg>img {
+}
+
+.smallimg>img {
     width: 50px;
-    margin-right: 16px!important;
+    margin-right: 16px !important;
     vertical-align: middle;
- }
- .travelblack {
-    color: #fff!important;
-    background-color: #000!important;
-    margin-bottom: 16px!important;
+}
+
+.travelblack {
+    color: #fff !important;
+    background-color: #000 !important;
+    margin-bottom: 16px !important;
     padding: 0 8px !important;
- }
- .tags {
+}
+
+.tags {
     display: inline-block;
-    margin-bottom: 16px!important;
+    margin-bottom: 16px !important;
     padding: 0 8px !important;
-    font-size: 15px!important;
- }
- .footer {
-    color: #fff!important;
-    background-color: #616161!important;
+    font-size: 15px !important;
+}
+
+.footer {
+    color: #fff !important;
+    background-color: #616161 !important;
     padding: 32px 16px;
     margin-top: 16px;
- }
+}
 
- .Previousbutton {
-    color: #fff!important;
-    background-color: #000!important;
-    padding: 12px 24px!important;
-    margin-bottom: 16px!important;
+.Previousbutton {
+    color: #fff !important;
+    background-color: #000 !important;
+    padding: 12px 24px !important;
+    margin-bottom: 16px !important;
     opacity: 0.3;
     border: none;
     text-decoration: none;
- }
- .Previousbutton:hover {
+}
+
+.Previousbutton:hover {
     color: #000 !important;
     background-color: #ccc !important;
- }
- .Nextbutton {
-    color: #fff!important;
-    background-color: #000!important;
-    padding: 12px 24px!important;
-    margin-bottom: 16px!important;
+}
+
+.Nextbutton {
+    color: #fff !important;
+    background-color: #000 !important;
+    padding: 12px 24px !important;
+    margin-bottom: 16px !important;
     border: none;
     text-decoration: none;
- }
- .Nextbutton:hover {
+}
+
+.Nextbutton:hover {
     color: #000 !important;
     background-color: #ccc !important;
- }
- .footerlink {
+}
+
+.footerlink {
     color: #fff;
- }
+}
