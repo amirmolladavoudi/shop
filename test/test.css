@@ -1,0 +1,10 @@
+* *:before *:after {
+box-sizing: border-box;
+}
+.header {
+    padding: 16px 32px !important;
+    text-align: center !important;
+} .h1 {
+    font-size: 36px;
+    margin: 10px 0;
+}
